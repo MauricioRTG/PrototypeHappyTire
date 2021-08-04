@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rueda_Shader_MAT
+  m_Shader: {fileID: -6465566751694194690, guid: bf454614afc791d4db06d74a5a37e076,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_7809FA5D:
+        m_Texture: {fileID: 2800000, guid: 2e5c664c3877b6049aa5f97a8260c764, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_857B4402:
+        m_Texture: {fileID: 2800000, guid: fb54497140ba6dc4e95e68f6d8554a78, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_F6F36051:
+        m_Texture: {fileID: 2800000, guid: b344323242444e8498218bef4b291c5f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_6051B38: 0
+    - Vector1_87EFADC3: 0.25
+    - Vector1_9DFF84: 0
+    - Vector1_AA09086B: 0.25
+    m_Colors: []
